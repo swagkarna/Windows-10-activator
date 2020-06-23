@@ -14,9 +14,9 @@ class windows_activator:
         print(colored.green(" \        /|  |   |  \/ /_/ (  <_> )     /\___ \  /_____/ /    |    \  \___|  | |  |\   /  / __ \|  | (  <_> )  | \/"))
         print(colored.yellow("  \__/\  / |__|___|  /\____ |\____/ \/\_//____  >         \____|__  /\___  >__| |__| \_/  (____  /__|  \____/|__|   "))
         print(colored.blue("       \/          \/      \/                 \/                  \/     \/                    \/                   "))
-        print(colored.green("          GITHUB:https://www.github.com/AzizKpln"))
-        print(colored.green("          INSTAGRAM:https://www.instagram.com/aziz.kpln/"))
-        print(colored.green("          FACEBOOK:https://www.facebook.com/aziz.kaplan.96387"))
+        print(colored.green("          GITHUB:https://www.github.com/swagkarna"))
+        print(colored.green("          INSTAGRAM:https://www.instagram.com/swagkarna/"))
+        print(colored.green("          FACEBOOK:https://www.facebook.com/swagkarna"))
         print(colored.blue("-"*70))
     def locate(self):
         self.temp_folder=tempfile.gettempdir()
