@@ -4,7 +4,7 @@
 
 ## 1. Run the script as administrator.
 ## 2. You can compile the python file to exe..
-## 3. Use this command to need to convert python file to exe
+## 3. Use this command  to convert python file to exe
 
 ```
  pyinstaller --onefile windows_activator.py 
